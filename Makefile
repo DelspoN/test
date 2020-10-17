@@ -1,2 +1,2 @@
 all:
-	echo aaa >&1
+	/bin/sh

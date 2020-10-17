@@ -1,2 +1,2 @@
 all:
-	echo aaa
+	echo aaa >&1
